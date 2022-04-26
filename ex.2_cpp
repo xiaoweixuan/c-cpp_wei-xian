@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main (void) {
+     printf(" hello Xana "); 
+     printf(" my height is 1.55 m 155 cm \n",1,80);
+}
