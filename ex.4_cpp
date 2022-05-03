@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  int     i;
+  double  f;
+  char    s[30];
+  
+  printf(" piease input a integer \n");
+  scanf("%d",&i);
+  printf("your input integer= %d\n",i);
+  
+  printf(" please input a float number \n");
+  scanf("%lf",&f);
+  printf(" your input float number = %f\n",f);
+  
+  printf(" please input a string \n");
+  scanf("%s",s);
+  printf(" your input string = %s\n",s);
+  
+  printf("your input integer= %d\n",i +  );
+ return 0;
+}
